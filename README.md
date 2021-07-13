@@ -8,9 +8,9 @@ In this tutorial we'll deploy some Python code to an AWS Lambda function using t
 
 This project uses AWS CDK to deploy the samples. To be able to deploy both stacks you'll need the following installed:
 
-    - CDK 1.113.0 or later
-    - Docker installed and running locally
-    - AWS credentials configured
+- CDK 1.113.0 or later
+- Docker installed and running locally
+- AWS credentials configured
 
 ## Expected Time
 
