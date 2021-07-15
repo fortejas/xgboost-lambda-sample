@@ -1,5 +1,7 @@
 # Example - Deploy a Simple ML Model to AWS Lambda for Inference
 
+Let's Connect: [https://linktr.ee/fortejas](https://linktr.ee/fortejas)
+
 ## Objective
 
 In this tutorial we'll deploy some Python code to an AWS Lambda function using the [Lambda container images feature](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html). The Lambda function will be invoked via Amazon API Gateway. The code will perform inference with an XGBoost model prepared using Amazon SageMaker. We will deploy the architecture using AWS CDK.
